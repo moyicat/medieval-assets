@@ -93,11 +93,17 @@ Yes, I'm also planning to make a VR escape room game out of this as my capstone 
 
 #### Rendered and Baked Scene
 
+<a href="https://sketchfab.com/models/4a26317612b14bef831b1b3305e20c1c" target="_blank">
+	<img src="Scenes/sorcerer_room/rendered/cy_rendering_1024_3.png" alt="The Great Sorcerer’s Room Scene"/>
+</a>
+
 ![The Great Sorcerer’s Room Scene](Scenes/sorcerer_room/rendered/cy_rendering_1024_3.png)
 
-Check it out on SketchFab (with VR support, too): [https://sketchfab.com/models/4a26317612b14bef831b1b3305e20c1c](https://sketchfab.com/models/4a26317612b14bef831b1b3305e20c1c)
+Check it out on SketchFab (with VR support, too): 
+[https://sketchfab.com/models/4a26317612b14bef831b1b3305e20c1c](https://sketchfab.com/models/4a26317612b14bef831b1b3305e20c1c)
 
-Also work in progress post if you are that interested: [https://forum.sketchfab.com/t/wip-the-great-sorcerers-room/16308](https://forum.sketchfab.com/t/wip-the-great-sorcerers-room/16308)
+Also work in progress post if you are that interested: <br/>
+[https://forum.sketchfab.com/t/wip-the-great-sorcerers-room/16308](https://forum.sketchfab.com/t/wip-the-great-sorcerers-room/16308)
 
 ## References
 
