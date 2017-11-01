@@ -97,8 +97,6 @@ Yes, I'm also planning to make a VR escape room game out of this as my capstone 
 	<img src="Scenes/sorcerer_room/rendered/cy_rendering_1024_3.png" alt="The Great Sorcerer’s Room Scene"/>
 </a>
 
-![The Great Sorcerer’s Room Scene](Scenes/sorcerer_room/rendered/cy_rendering_1024_3.png)
-
 Check it out on SketchFab (with VR support, too): 
 [https://sketchfab.com/models/4a26317612b14bef831b1b3305e20c1c](https://sketchfab.com/models/4a26317612b14bef831b1b3305e20c1c)
 
